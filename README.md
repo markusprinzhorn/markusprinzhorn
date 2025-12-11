@@ -5,6 +5,7 @@
 ## Links
 
 * [github.com](https://github.com/markusprinzhorn)
+* [gitlab.com](https://gitlab.com/markusprinzhorn)
 * [xing.com](https://www.xing.com/profile/Markus_Prinzhorn)
 * [linkedin.com](https://www.linkedin.com/in/markus-prinzhorn)
 * [nepatec.de](https://www.nepatec.de)
