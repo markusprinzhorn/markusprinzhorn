@@ -1,6 +1,6 @@
 # Markus Prinzhorn
 
-> MaschInisT ![Don't Panic](Dont_panic.gif)
+> MaschInisT ![Don't Panic](maschInisT/will/do/not/panic.gif)
 
 ## Links
 
